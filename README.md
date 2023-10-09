@@ -1,4 +1,8 @@
-# ICJ Bootstrap Template
+# ICJ Bootstrap Project
+
+This project is by Aislyn Gaddis for the class Intro to Coding for Journalists. I started working on this project on October 9, 2023. This is a Bootstrap 5 class project.
+
+## ICJ Bootstrap Template
 
 This template goes along with the [Bootstrap lessons](https://utdata.github.io/icj-class/bs-00-intro.html) for Intro to Coding for Journalists.
 
